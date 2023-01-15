@@ -2,7 +2,7 @@
 A discord bot I made for Algorithm and Programming Final Project. 
 
 
-## 🙋🏻‍♀️ Made by
+## Details
 Priscilla Abigail Munthe - 2602109883
 
 ## Features ( ๑>ᴗ<๑ ) ✧:･ﾟ✧
