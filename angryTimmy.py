@@ -163,7 +163,7 @@ class BattleshipButtons(nextcord.ui.Button):
 
             content = "Oops it's not your turn 😅"
 
-        # if the number of attempts is still below 25 (the number of buttons)
+        # if the number of attempts already reaches 25 (the number of buttons)
         if number_attempts == 25:
                 
             # embed generated if player 1 wins
