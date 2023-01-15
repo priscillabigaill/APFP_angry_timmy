@@ -10,7 +10,7 @@ Priscilla Abigail Munthe - 2602109883
 ## How to use 
 1. Download the zip folder containing all of the files of this repository.
 2. Open the folder in your chosen IDE.
-3. Install dependencies by using this command
+3. Install dependencies by typing this command into your terminal
 
 ```sh
 pip install -r requirements.txt
