@@ -22,7 +22,7 @@ guilds = [server's guild id(s) here]
 ```py
 bot.run("token here")
 ```
-
+6. Run the code and your bot should be activated in a bit
 
 ## 💾 Demonstration video link
 https://www.youtube.com/watch?v=WhTkVUuUCEI
