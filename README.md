@@ -25,16 +25,16 @@ bot.run("token here")
 ## 💾 Demonstration video link
 https://www.youtube.com/watch?v=WhTkVUuUCEI
 
-## 📸 Screenshots of the bot in action 
+## Screenshots of the bot in action 
 
-### Battleship game
+### Battleship game ⛴️💥
 <img src="images/bshipmenu.png" alt="menu" height="300"/>
 <img src="images/bship.png" alt="menu" height="300"/>
 
-### Magic 8ball 
+### Magic 8ball 🎱✨
 <img src="images/m8ball.png" alt="menu" height="500"/>
 
-### Akinator bot
+### Akinator bot 🧞🔮
 <img src="images/akistart.png" alt="menu" height="300"/>
 <img src="images/akiques.png" alt="menu" height="300"/>
 <img src="images/akiguess.png" alt="menu" height="300"/>
