@@ -5,7 +5,7 @@ A discord bot I made for Algorithm and Programming Final Project.
 Priscilla Abigail Munthe - 2602109883
 
 ## Features ( ๑>ᴗ<๑ ) ✧:･ﾟ✧
-<img src="images/menu.png" alt="menu" width="800"/>
+<img src="images/menu.png" alt="menu" width="700"/>
 
 ## How to use 
 1. Download the zip folder containing all of the files of this repository.
