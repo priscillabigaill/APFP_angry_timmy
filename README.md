@@ -10,13 +10,18 @@ Priscilla Abigail Munthe - 2602109883
 ## How to use 
 1. Download the zip folder containing all of the files of this repository.
 2. Open the folder in your chosen IDE.
-3. Input your server ID(s) into the `guilds` variable
+3. Install dependencies by using this command
+
+```sh
+pip install -r requirements.txt
+```
+4. Input your server ID(s) into the `guilds` variable
 
 ```
 guilds = [server's guild id(s) here]
 ```
 
-4. Add your bot's token into the 
+5. Add your bot's token into the 
 ```py
 bot.run("token here")
 ```
