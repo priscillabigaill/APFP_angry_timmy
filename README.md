@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=WhTkVUuUCEI
 <img src="images/m8ball.png" alt="menu" height="500"/>
 
 ### Akinator bot 🧞🔮
-<img src="images/akistart.png" alt="menu" height="300"/>
+<img src="images/akistart.png" alt="menu" width="500"/>
 <img src="images/akiques.png" alt="menu" height="300"/>
 <img src="images/akiguess.png" alt="menu" height="300"/>
 <img src="images/akibye.png" alt="menu" height="300"/>
