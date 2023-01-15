@@ -1,9 +1,6 @@
 # Angry Timmy Discord Bot
 A discord bot I made for Algorithm and Programming Final Project. 
 
-## Name & NIM
-Priscilla Abigail Munthe - 2602109883
-
 ## Features ( ๑>ᴗ<๑ ) ✧:･ﾟ✧
 <img src="images/menu.png" alt="menu" width="700"/>
 
