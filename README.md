@@ -14,8 +14,8 @@ pip install -r requirements.txt
 ```
 4. Input your server ID(s) into the `guilds` variable
 
-```
-guilds = [server's guild id(s) here]
+```PY
+guilds = [] # list server guild id(s) here
 ```
 
 5. Add your bot's token into the 
