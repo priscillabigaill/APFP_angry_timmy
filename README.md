@@ -5,8 +5,8 @@ A discord bot I made for Algorithm and Programming Final Project.
 <img src="images/menu.png" alt="menu" width="700"/>
 
 ## How to use 
-1. Download the zip folder containing all of the files of this repository.
-2. Open the folder in your chosen IDE.
+1. Download the zip folder containing all of the files of this repository
+2. Open the folder in your chosen IDE
 3. Install dependencies by typing this command into your terminal
 
 ```sh
